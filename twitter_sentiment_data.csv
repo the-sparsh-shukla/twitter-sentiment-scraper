@@ -1,0 +1,11 @@
+Tweet_ID,Topic,Raw_Tweet,Clean_Tweet,Sentiment,Polarity_Score
+179040001,AI,@tech_insider AI is going to absolutely change the world for the better! Insanely excited for what is next! #AI #Future,AI is going to absolutely change the world for the better! Insanely excited for what is next! AI Future,Positive,0.24
+179040002,Tech,Had a horrible experience with the new software update. It crashed my system three times today. Avoid it. #tech #fail,Had a horrible experience with the new software update. It crashed my system three times today. Avoid it. tech fail,Negative,-0.45
+179040003,AI,"Just reading the new guidelines on artificial intelligence regulation. Pretty standard stuff, nothing exciting.","Just reading the new guidelines on artificial intelligence regulation. Pretty standard stuff, nothing exciting.",Positive,0.02
+179040004,Future,The new electric vehicle models look incredibly sleek! Innovation is booming right now.,The new electric vehicle models look incredibly sleek! Innovation is booming right now.,Positive,0.47
+179040005,Tech,I do not understand the hype around this new app. It is extremely slow and laggy.,I do not understand the hype around this new app. It is extremely slow and laggy.,Negative,-0.08
+179040006,AI,Generative AI tools are saving me hours of work every single week. Highly recommend checking them out!,Generative AI tools are saving me hours of work every single week. Highly recommend checking them out!,Positive,0.06
+179040007,Tech,Cloud servers are down again. This is unacceptable for a multi-billion dollar enterprise.,Cloud servers are down again. This is unacceptable for a multi-billion dollar enterprise.,Negative,-0.16
+179040008,Future,"Beautiful morning to sit down, grab a coffee, and code some web scrapers!","Beautiful morning to sit down, grab a coffee, and code some web scrapers!",Positive,0.33
+179040009,AI,The debate around artificial general intelligence is getting a bit exhausting honestly.,The debate around artificial general intelligence is getting a bit exhausting honestly.,Negative,-0.09
+179040010,Tech,I love how open-source libraries make NLP so accessible to everyone.,I love how open-source libraries make NLP so accessible to everyone.,Positive,0.44
